@@ -5,4 +5,4 @@ theme: PaperMod
 params:
   # defaultTheme: light
   # defaultTheme: dark
-  defaultTheme: auto # to switch between dark or light according to browser theme
+  defaultTheme: light # to switch between dark or light according to browser theme
