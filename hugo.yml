@@ -5,7 +5,7 @@ theme: PaperMod
 params:
   homeInfoParams:
     Title: Welkom wave
-    Content: Dit is de website van het actie comite een betere a8, Hieronder kan je het laatste nieuws opvolgen
+    Content: Dit is de website van het actiecomitè een betere a8, Hieronder kan je het laatste nieuws opvolgen
   # defaultTheme: light
   # defaultTheme: dark
   defaultTheme: light # to switch between dark or light according to browser theme
