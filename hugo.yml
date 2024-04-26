@@ -14,3 +14,25 @@ params:
       Op deze website volgen we de ontwikkelingen rondom de tunnelplannen op de voet. 
       We informeren u over de voortgang van het project, delen relevante nieuwsberichten en tracbten we om onze stem te laten horen.
   defaultTheme: light
+menu:
+  main:
+    - identifier: Home
+      name: Home
+      url: https://betere-a8.be
+      weight: 1
+    - identifier: Nieuws
+      name: Nieuws
+      url: /tags/Nieuws/
+      weight: 10
+    - identifier: Verslagen
+      name: Verslagen
+      url: /tags/Verslagen/
+      weight: 20
+    - identifier: Aansluiten
+      name: Aansluiten
+      url: /aansluiten/
+      weight: 30
+    - identifier: OverOns
+      name: Over Ons
+      url: /about/
+      weight: 40

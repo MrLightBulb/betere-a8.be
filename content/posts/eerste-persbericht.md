@@ -2,6 +2,8 @@
 title = 'Eerste Persbericht'
 date = 2024-04-26T00:44:39+02:00
 draft = false
+tags = ['Nieuws']
+categories = ['Nieuws']
 +++
 Op woensdag 17 april is het actiecomité “voor een betere A8” van start gegaan. Het
 actiecomité is een initiatief van een aantal bewoners van Sint-Rochus en Essenbeek die zich
