@@ -1,5 +1,5 @@
 +++
-title = 'Verslag Startvergadering Actiecomite Betere A8'
+title = 'Verslag startvergadering actiecomite **Betere A8**'
 date = 2024-04-26T16:16:28+02:00
 draft = false
 tag = ["Verslag"]
