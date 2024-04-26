@@ -82,7 +82,4 @@ S- tad Halle vragen om een aantal extra Telramen in het gebied te plaatsen
 
 Als volgende stappen gaan we binnenkort een eerste keer samen zitten met de Werkvennootschap om meer informatie te verkrijgen en een eerste keer van gedachten te wisselen. Ook wordt er gewerkt aan een website voor het actiecomité waar alle info zal terug te vinden zijn. Momenteel zijn er 77 bewoners aangesloten bij het actiecomité. 
 
-We houden u op de hoogte van de verdere ontwikkelingen. 
-
-
-Stuurgroep Actiecomité BetereA8
+We houden u op de hoogte van de verdere ontwikkelingen.
