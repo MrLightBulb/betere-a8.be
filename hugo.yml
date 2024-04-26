@@ -18,7 +18,7 @@ menu:
   main:
     - identifier: Home
       name: Home
-      url: https://betere-a8.be
+      url: /
       weight: 1
     - identifier: Nieuws
       name: Nieuws
