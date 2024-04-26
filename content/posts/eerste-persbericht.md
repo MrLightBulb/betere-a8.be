@@ -5,7 +5,7 @@ draft = false
 tags = ['Nieuws']
 categories = ['Nieuws']
 +++
-Op woensdag 17 april is het actiecomité “voor een betere A8” van start gegaan. Het
+Op woensdag 17 april is het actiecomité **“Een betere A8”** van start gegaan. Het
 actiecomité is een initiatief van een aantal bewoners van Sint-Rochus en Essenbeek die zich
 zorgen maken over de plannen van de herinrichting van de A8. Zoals de plannen nu
 voorliggen, zal de ontsluiting van Essenbeek naar de A8 en het centrum van Halle moeilijker
@@ -24,9 +24,10 @@ weinig onderzocht. Positief is dat de doorstroming zal verbeteren en de gevaarli
 verdwijnen. Dit zal de leefbaarheid en de verkeersveiligheid verhogen. Fietsers en voetgangers
 krijgen betere verbindingen en de Welkomstlaan krijgt een volwaardige aansluiting.
 
-De belangrijkste negatieve elementen zijn de onduidelijkheid over de ontsluiting en de toename van
-lokale verkeersstromen die we kunnen verwachten. De cijfers van Telraam werden gebruikt
+De belangrijkste negatieve elementen zijn **de onduidelijkheden over de ontsluiting** en **de toename van
+lokale verkeersstromen** die we kunnen verwachten. De cijfers van Telraam werden gebruikt
 (gemeten op een schooldag (15/04/24)) om de huidige verkeersstromen in kaart te brengen.
+
 Na de presentatie bespraken de deelnemers de impact van de plannen op hun verplaatsing(en) en
 de grootste bezorgdheden die er momenteel leven bij de bewoners. De moeilijker ontsluitingen van
 Essenbeek, (een deel van) Sint-Rochus en Rodenem zijn de grootste bezorgdheden. Voor
