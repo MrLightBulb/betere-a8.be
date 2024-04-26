@@ -4,12 +4,12 @@ title: Een Betere A8
 theme: PaperMod
 params:
   homeInfoParams:
-    Title: Welkom Hallenaars
+    Title: Welkom Hallenaars 👋
     Content: >
-    Dit is eem website opgericht door het actiecomitè **een betere a8**. 
-    Wij streven naar een betere leefbaarheid, Veiligheid en verkeersituatie bij het opmaken van de plannen om de A8 te ondertunnellen.
-
-    Hieronder kan je het laatste nieuws opvolgen
+      Dit is eem website opgericht door het actiecomitè **een betere a8**. 
+      Wij streven naar een betere leefbaarheid, Veiligheid en verkeersituatie bij het opmaken van de plannen om de A8 te ondertunnellen.
+      
+      Hieronder kan je het laatste nieuws opvolgen
   # defaultTheme: light
   # defaultTheme: dark
   defaultTheme: light # to switch between dark or light according to browser theme
