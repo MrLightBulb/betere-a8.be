@@ -2,7 +2,8 @@
 title = 'Verslag startvergadering actiecomite Betere A8'
 date = 2024-04-26T16:16:28+02:00
 draft = false
-tags = ['Verslag']
+tags = ['verslag']
+categories = ['verslag']
 +++
 
 Aanwezig: 36 inwoners van Essenbeek en Sint-Rochus
