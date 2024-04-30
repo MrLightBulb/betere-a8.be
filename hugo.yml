@@ -15,8 +15,10 @@ params:
       We informeren u over de voortgang van het project, delen relevante nieuwsberichten en tracbten we om onze stem te laten horen.
   defaultTheme: light
 
-markup.goldmark.renderer:
- unsafe: true
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 menu:
   main:
     - identifier: Home
