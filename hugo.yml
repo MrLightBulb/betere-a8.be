@@ -14,6 +14,9 @@ params:
       Op deze website volgen we de ontwikkelingen rondom de tunnelplannen op de voet. 
       We informeren u over de voortgang van het project, delen relevante nieuwsberichten en tracbten we om onze stem te laten horen.
   defaultTheme: light
+
+markup.goldmark.renderer:
+ unsafe: true
 menu:
   main:
     - identifier: Home
