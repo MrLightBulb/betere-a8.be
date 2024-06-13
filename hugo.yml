@@ -7,7 +7,7 @@ params:
     enabled: true
     title: "Een Beter A8" # optional default will be site title
     subtitle: "Voor een meer leefbaar Halle"
-    imageUrl: "<image link>" # optional
+    imageUrl: "/content/images/Betere-a8-logo.png" # optional
     imageTitle: "Betere A8 Logo Hier" # optional
     imageWidth: 120 # custom size
     imageHeight: 120 # custom size
@@ -18,17 +18,6 @@ params:
         url: "/tags/nieuws"
       - name: Verslagen
         url: "/tags/nieuws/"
-  #homeInfoParams:
-    #Title: Welkom Hallenaars 👋
-    #Content: >
-      #Welkom op de website van het Actiecomité **Een Betere A8**!
-      #<br/><br/>
-      #Wij zijn een burgerinitiatief dat zich inzet voor een betere leefbaarheid, veiligheid en verkeersituatie in de omgeving van de A8.
-      
-      #De plannen om de A8 te ondertunnellen bieden een unieke kans om deze doelstellingen te realiseren.
-      #<br/><br/>
-      #Op deze website volgen we de ontwikkelingen rondom de tunnelplannen op de voet. 
-      #We informeren u over de voortgang van het project, delen relevante nieuwsberichten en trachten we om onze stem te laten horen.
   defaultTheme: light
 
 markup:
