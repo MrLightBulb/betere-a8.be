@@ -13,7 +13,7 @@ params:
     imageHeight: 120 # custom size
     buttons:
       - name: Over Ons
-        url "/about"
+        url: "/about"
       - name: Nieuws
         url: "/tags/nieuws"
       - name: Verslagen
