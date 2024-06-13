@@ -10,7 +10,7 @@ params:
     subtitle: "Voor een meer leefbaar Halle"
     imageUrl: "betere-a8-logo.png" # optional
     imageTitle: "Betere A8 Logo Hier" # optional
-    imageWidth: 350 # custom size
+    imageWidth: 500 # custom size
     imageHeight: 250 # custom size
     buttons:
       - name: Over Ons
