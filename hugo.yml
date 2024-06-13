@@ -8,7 +8,7 @@ params:
     enabled: true
     title: "Een Betere A8" # optional default will be site title
     subtitle: "Voor een meer leefbaar Halle"
-    imageUrl: "/betere-a8-logo.png" # optional
+    imageUrl: "https://klepperbe-my.sharepoint.com/:i:/g/personal/rutger_maasdal_net/ER6Uf-3CiitPsj6aMUtd71UBtpq6mbTfBkaL_TKhx6XwRQ?e=G3jjhg" # optional
     imageTitle: "Betere A8 Logo Hier" # optional
     imageWidth: 120 # custom size
     imageHeight: 120 # custom size
