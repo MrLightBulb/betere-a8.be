@@ -6,9 +6,9 @@ params:
    defaultTheme: light
    profileMode:
     enabled: true
-    title: "Een Beter A8" # optional default will be site title
+    title: "Een Betere A8" # optional default will be site title
     subtitle: "Voor een meer leefbaar Halle"
-    imageUrl: "/content/images/Betere-a8-logo.png" # optional
+    imageUrl: "/static/betere-a8-logo.png" # optional
     imageTitle: "Betere A8 Logo Hier" # optional
     imageWidth: 120 # custom size
     imageHeight: 120 # custom size
