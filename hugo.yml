@@ -3,6 +3,7 @@ languageCode: en-us
 title: Een Betere A8
 theme: PaperMod
 params:
+   disableThemeToggle: true
    defaultTheme: light
    profileMode:
     enabled: true
