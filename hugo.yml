@@ -8,10 +8,10 @@ params:
     enabled: true
     title: "Een Betere A8" # optional default will be site title
     subtitle: "Voor een meer leefbaar Halle"
-    imageUrl: "static/betere-a8-logo.png" # optional
+    imageUrl: "https://betere-a8.be/static/betere-a8-logo.png" # optional
     imageTitle: "Betere A8 Logo Hier" # optional
-    imageWidth: 120 # custom size
-    imageHeight: 120 # custom size
+    imageWidth: 250 # custom size
+    imageHeight: 250 # custom size
     buttons:
       - name: Over Ons
         url: "/about"
