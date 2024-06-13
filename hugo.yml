@@ -17,7 +17,7 @@ params:
       - name: Nieuws
         url: "/tags/nieuws"
       - name: Verslagen
-        url: "/tags/nieuws/"
+        url: "/tags/verslagen"
   defaultTheme: light
 
 markup:
