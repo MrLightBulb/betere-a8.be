@@ -7,7 +7,8 @@ categories = ['Nieuws']
 +++
 Op 31 mei 2024 heeft de Vlaamse Regering de startnota over het gewestelijk ruimtelijk uitvoeringsplan ‘Landschappelijke inpassing A8’ goedgekeurd. Het plan wordt ter inzage gelegd bij de stad Halle, de gemeente Beersel en de gemeente Sint-Pieters-Leeuw.
 
-Over deze startnota wordt de bevolking nu geraadpleegd. Van 11 juni 2024 tot en met 9 augustus 2024 ligt de startnota met de bijhorende procesnota ter inzage:
+Over deze startnota wordt de bevolking nu geraadpleegd. 
+Van 11 juni 2024 tot en met 9 augustus 2024 ligt de startnota met de bijhorende procesnota ter inzage:
 
 - bij de stad Halle, Oudstrijdersplein 18, 1500 Halle
 - bij de gemeente Beersel, Alsembergsteenweg 1046, 1652 Alsemberg
