@@ -1,5 +1,5 @@
 +++
-title = 'Reactie: Openbaar ondezoek start nota GRUP'
+title = 'Reactie: Startnota GRUP A8'
 date = 2024-08-09T00:44:39+02:00
 draft = false
 tags = ['Nieuws']
