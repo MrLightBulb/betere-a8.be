@@ -29,6 +29,7 @@ verdere proces en de keuze hierin?
 van andere zones, zoals ten westen van het kanaal en het knooppunt R0 x A8?
 
 **<ins>Ontsluiting van en naar de A8 en Halle voor het lokaal verkeer</ins>**
+
 Uit het overleg bleek dat de werkvennootschap de voorkeur geeft aan de ontsluiting van
 de dorpen rond de A8 via het bestaande wegennet. Het actiecomité reageerde hier
 unaniem negatief op
