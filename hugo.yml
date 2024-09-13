@@ -5,6 +5,9 @@ theme: PaperMod
 params:
    disableThemeToggle: true
    defaultTheme: light
+   homeInfoParams:
+    Title: Welkom op Betere A8 wave
+    Content: Voor een meer leefbaar Halle rondom de A8
    profileMode:
     enabled: false
     title: "Een Betere A8" # optional default will be site title
