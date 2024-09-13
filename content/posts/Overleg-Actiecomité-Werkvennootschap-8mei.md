@@ -2,8 +2,8 @@
 title = 'Overleg tussen Actiecomité en Werkvennootschap op 8 mei'
 date = 2024-05-10T10:00:00+02:00
 draft = false
-tags = ['Nieuws']
-categories = ['Nieuws']
+tags = ['verslagen']
+categories = ['Nieuws','verslagen']
 +++
 Op woensdag 8 mei vond een overleg plaats tussen het actiecomité en de
 werkvennootschap. 
