@@ -6,8 +6,8 @@ params:
    disableThemeToggle: true
    defaultTheme: light
    homeInfoParams:
-    Title: "Welkom op Betere A8"
-    Content: Voor een meer leefbaar Halle rondom de A8 </br> hieronder kan je het recentste nieuws lezen
+    Title: "Welkom bij 'Een Betere A8' Actiecomite"
+    Content: Voor een meer leefbaar Halle rondom de A8. </br> Hieronder kan je het recentste nieuws lezen
    profileMode:
     enabled: false
     title: "Een Betere A8" # optional default will be site title
