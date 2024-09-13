@@ -46,12 +46,15 @@ worden op de infomarkt die op 27 juni 2024 georganiseerd wordt in de raadszaal v
 het stadhuis.
 
 **<ins>De herinrichting van de A8</ins>**
+
 Niet alleen de ontsluiting van het lokaal verkeer is een aandachtspunt maar ook de
 definitieve vormgeving van de A8 is van cruciaal belang voor de omwonenden
 Het GRUP beschrijft 3 varianten van de herinrichting van de A8, telkens met en zonder
 een lokale verbindingsweg. 
 De 3 varianten zijn:
+
 <ins>Variant 1 met ‘korte kappen’</ins>
+
 In deze eerste variant wordt de A8 verdiept aangelegd maar niet ingetunneld. De A8
 komt in een open sleuf te liggen waar een aantal brede overbruggingen over worden
 voorzien. Deze overbruggingen, ‘korte kappen’ genaamd, kennen een breedte van ca. 80
@@ -60,10 +63,12 @@ gaat om 4 bovengrondse overbruggingen (‘korte kappen’) en 2 ondergrondse
 verbindingen.
 
 <ins>Variant 2 met een korte tunnel</ins>
+
 In de 2e variant wordt gekozen voor een korte tunnel. In dit geval een tunnel van ca.
 560 m gelegen tussen de Nijvelsesteenweg en de Halleweg.
 
 <ins>Variant 3 met een lange tunnel</ins>
+
 In dit alternatief wordt een tunnel van ca. 1.000m voorzien vanaf de dwarsverbinding
 tussen de Veldstraat en Driepikkel tot voorbij de Halleweg. Hierdoor ontstaat een grotere
 groenruimte dan in het tweede alternatief en worden drie dwarsverbindingen tezamen
