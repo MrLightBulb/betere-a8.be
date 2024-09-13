@@ -6,7 +6,7 @@ params:
    disableThemeToggle: true
    defaultTheme: light
    profileMode:
-    enabled: true
+    enabled: false
     title: "Een Betere A8" # optional default will be site title
     subtitle: "Voor een meer leefbaar Halle"
     imageUrl: "betere-a8-logo-new.png" # optional
