@@ -1,11 +1,10 @@
 +++
-title = 'OPROEP TOT DEELNAME AAN DE PUBLIEKE RAADPLEGING'
+title = 'OPROEP tot deelname aan de publieke raadpleging'
 date = 2024-07-28T10:00:00+02:00
 draft = false
 tags = ['Nieuws']
 categories = ['Nieuws']
 +++
-OPROEP TOT DEELNAME AAN DE PUBLIEKE RAADPLEGING 
 Van 11 juni tot 9 augustus kunnen de inwoners van de stad Halle, Sint Pieters Leeuw en Beersel de plannen m.b.t. de heraanleg van de A8 raadplegen bij de respectievelijke gemeentebesturen.  
 
 De plannen zijn tevens te vinden op de volgende websites :
