@@ -6,18 +6,25 @@ tags = ['Nieuws']
 categories = ['Nieuws']
 +++
 Op woensdag 8 mei vond een overleg plaats tussen het actiecomité en de
-werkvennootschap. Het actiecomité stelde hierbij de volgende vragen:
+werkvennootschap. 
+
+Het actiecomité stelde hierbij de volgende vragen:
+
 1. Ontsluiting van Essenbeek: Hoe wordt Essenbeek ontsloten naar Halle en de
 A8? Wat is de impact op de lokale wegen?
+
 2. Veilige Oversteek voor Zwakke Weggebruikers: Welke ideeën zijn er om een
 veilige oversteek op de Halleweg te garanderen, en hoe worden conflicten op
 andere plekken, zoals bij het kruispunt van de Kruisstraat en de Ysayestraat,
 vermeden?
+
 3. Impact van Mobiliteitsstromen op de Welkomstlaan: Hoe wordt omgegaan
 met de impact van de concentratie van mobiliteitsstromen op de Welkomstlaan in
 St-Rochus?
+
 4. Tracés voor de Tunnel: Wat zijn de tracés voor de tunnel, en hoe verloopt het
 verdere proces en de keuze hierin?
+
 5. Scope van het Project: Wat zijn de plannen, de timing en de concrete uitvoering
 van andere zones, zoals ten westen van het kanaal en het knooppunt R0 x A8?
 
