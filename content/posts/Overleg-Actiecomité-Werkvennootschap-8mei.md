@@ -51,7 +51,7 @@ definitieve vormgeving van de A8 is van cruciaal belang voor de omwonenden
 Het GRUP beschrijft 3 varianten van de herinrichting van de A8, telkens met en zonder
 een lokale verbindingsweg. 
 De 3 varianten zijn:
-<ins>Variant 1 met ‘korte kappen’<ins>
+<ins>Variant 1 met ‘korte kappen’</ins>
 In deze eerste variant wordt de A8 verdiept aangelegd maar niet ingetunneld. De A8
 komt in een open sleuf te liggen waar een aantal brede overbruggingen over worden
 voorzien. Deze overbruggingen, ‘korte kappen’ genaamd, kennen een breedte van ca. 80
