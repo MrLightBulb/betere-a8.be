@@ -63,6 +63,6 @@ We zijn er nog lang niet en proberen alles zo goed mogelijk op te volgen. De kom
 
 De stuurgroep “Actiecomité voor een betere A8”
 
-Heeft u vragen? Opmerkingen? Suggesties?
-Zin om aan te sluiten bij de stuurgroep? 
+Heeft u vragen? Opmerkingen? Suggesties?</br>
+Zin om aan te sluiten bij de stuurgroep?</br>
 stuur ons een bericht op info@betere-a8.be 
