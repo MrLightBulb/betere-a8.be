@@ -20,6 +20,7 @@ De opmaak van het GRUP is nog steeds volop aan de gang. Dat is een noodzakelijke
 Wie het project een beetje gevolgd heeft, herinnert zich dat er drie mogelijke scenario’s op tafel lagen: een lange tunnel, een iets kortere tunnel of enkel overkappingen aan de kruispunten. Het ziet er nu naar uit dat de voorkeur van de projectplanners gaat naar de korte tunnel. Die zou beginnen voor de Nijvelsesteenweg en doorlopen tot voorbij de Halleweg. Voorbij deze aansluiting komt de A8 dan opnieuw bovengronds om verder te kunnen aansluiten met de Ring. Deze variant zou de beste kosten/baten verhouding hebben. Hoewel onze voorkeur uitgaat naar een langere tunnel, begrijpen we ook dat er rekening moet gehouden worden met de budgettaire impact. 
 
 ![alt text](./images/Tunnel-A8-okt25.png)
+![alt text](https://github.com/MrLightBulb/betere-a8.be/blob/93abc3edbbfbf554f1a386813dd59f41f10e2cda/content/posts/images/stratennamen-plattegrond-okt25.png?raw=true)
 
 <h2>Lokale verbindingsweg Essenbeek</h2>
 
