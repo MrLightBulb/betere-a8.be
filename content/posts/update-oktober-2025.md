@@ -1,5 +1,5 @@
 +++
-title = 'Update 1 Oktober 2025'
+title = 'Update Oktober 2025'
 date = 2025-10-01T08:00:00+02:00
 draft = false
 tags = ['Nieuws']
