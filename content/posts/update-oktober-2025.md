@@ -19,7 +19,7 @@ De opmaak van het GRUP is nog steeds volop aan de gang. Dat is een noodzakelijke
 
 Wie het project een beetje gevolgd heeft, herinnert zich dat er drie mogelijke scenario’s op tafel lagen: een lange tunnel, een iets kortere tunnel of enkel overkappingen aan de kruispunten. Het ziet er nu naar uit dat de voorkeur van de projectplanners gaat naar de korte tunnel. Die zou beginnen voor de Nijvelsesteenweg en doorlopen tot voorbij de Halleweg. Voorbij deze aansluiting komt de A8 dan opnieuw bovengronds om verder te kunnen aansluiten met de Ring. Deze variant zou de beste kosten/baten verhouding hebben. Hoewel onze voorkeur uitgaat naar een langere tunnel, begrijpen we ook dat er rekening moet gehouden worden met de budgettaire impact. 
 
-![alt text](/content/posts/images/Tunnel-A8-okt25.png)
+![alt text](./images/Tunnel-A8-okt25.png)
 
 <h2>Lokale verbindingsweg Essenbeek</h2>
 
@@ -27,7 +27,7 @@ De grootste bekommernis was hoe het verkeer van Essenbeek zou kunnen aansluiten 
 
 Na ons aandringen werden aan de drie scenario’s telkens een te onderzoeken variant met een lokale verbindingsweg toegevoegd. Hier ziet het er naar uit dat we een doorbraak hebben kunnen bereiken. Momenteel wordt er een lokale verbindingsweg gepland die parallel loopt met de (getunnelde) A8. Deze lokale verbindingsweg zou starten aan de Nijvelsesteenweg (ongeveer ter hoogte van de bestaande aansluiting) en zou lopen tot de aansluiting met de Welkomstlaan. (2x1 rijvak) Op deze manier zouden de inwoners van Essenbeek en Sint-Rochus via de Nijvelsesteenweg naar de A8 kunnen blijven rijden. Dit zou een grote stap vooruit zijn voor het project en de leefbaarheid van de lokale wijken. 
 
-![alt text](/Tunnel-A8-okt25.png)
+![alt text](./images/stratennamen-plattegrond-okt25.png)
 <h2>Wat met de Halleweg?</h2>
 
 Ook hier liggen de keuzes nog niet vast, maar lijkt zich toch volgend scenario af te tekenen. De Halleweg zou niet meer doorlopen voor gemotoriseerd verkeer, maar wel nog voor fietsers en voetgangers. Het voordeel hiervan is dat Essenbeek eindelijk een veilige verbinding zou krijgen naar Halle, het station en de scholen. Maar we hebben hierbij toch drie belangrijke bekommernissen. 
