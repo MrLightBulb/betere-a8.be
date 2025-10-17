@@ -33,13 +33,13 @@ Na ons aandringen werden aan de drie scenario’s telkens een te onderzoeken var
 
 Ook hier liggen de keuzes nog niet vast, maar lijkt zich toch volgend scenario af te tekenen. De Halleweg zou niet meer doorlopen voor gemotoriseerd verkeer, maar wel nog voor fietsers en voetgangers. Het voordeel hiervan is dat Essenbeek eindelijk een veilige verbinding zou krijgen naar Halle, het station en de scholen. Maar we hebben hierbij toch drie belangrijke bekommernissen. 
 
-1.	Inwoners van Essenbeek moeten met de auto dan steeds via de Nijvelsesteenweg naar de A8 en het centrum rijden (via de lokale verbindingsweg). We geloven wel dat de Nijvelsesteenweg, die nu veel wachttijden kent omwille van de lichten met de A8, vlotter zal worden dan nu. Anderzijds moet er berekend worden wat de extra impact zal zijn van het bijkomend verkeer van en naar Essenbeek. We hebben de Werkvennootschap gevraagd of ze dit verder kunnen onderzoeken.
+1.	Inwoners van Essenbeek moeten met de auto dan steeds via de Nijvelsesteenweg naar de A8 en het centrum rijden (via de lokale verbindingsweg). We geloven wel dat de Nijvelsesteenweg, die nu veel wachttijden kent omwille van de lichten met de A8, vlotter zal worden dan nu. Anderzijds moet er berekend worden wat de extra impact zal zijn van het bijkomend verkeer van en naar Essenbeek. We hebben de Werkvennootschap gevraagd of ze dit verder kunnen onderzoeken.</br>
 
 
-2.	Als de Halleweg voor fietsers en voetgangers een veilige verbinding met het centrum moet zijn, moet dat gebeuren zonder conflicten met de lokale verbindingsweg. Anders is deze verbinding alweer niet veilig en weinig bruikbaar. Het beste zou de Halleweg boven de lokale verbindingsweg komen zodat er geen conflicten meer zijn.
+2.	Als de Halleweg voor fietsers en voetgangers een veilige verbinding met het centrum moet zijn, moet dat gebeuren zonder conflicten met de lokale verbindingsweg. Anders is deze verbinding alweer niet veilig en weinig bruikbaar. Het beste zou de Halleweg boven de lokale verbindingsweg komen zodat er geen conflicten meer zijn.</br>
 
 
-3.	Als er voor gekozen wordt om de Halleweg niet meer te gebruiken door gemotoriseerd verkeer, vragen we om wel te voorzien dat deze nog gebruikt kan worden door gemotoriseerd verkeer in geval van werken of calamiteiten aan de Nijvelsesteenweg. Essenbeek met slechts 1 verbinding naar het centrum vinden wij een te groot risico als er iets gebeurt.
+3.	Als er voor gekozen wordt om de Halleweg niet meer te gebruiken door gemotoriseerd verkeer, vragen we om wel te voorzien dat deze nog gebruikt kan worden door gemotoriseerd verkeer in geval van werken of calamiteiten aan de Nijvelsesteenweg. Essenbeek met slechts 1 verbinding naar het centrum vinden wij een te groot risico als er iets gebeurt.</br>
 
 <h2>Onteigeningen voor een tijdelijke weg</h2>
 
